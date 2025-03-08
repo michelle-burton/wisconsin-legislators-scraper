@@ -1,5 +1,5 @@
 {
-  "name": "webscraper",
+  "name": "wisconsin-legislators-scraper",
   "version": "1.0.0",
   "description": "Web Scraper ",
   "main": "index.js",

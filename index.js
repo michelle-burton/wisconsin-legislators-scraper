@@ -21,26 +21,34 @@ axios(url)
             const emailURL = "mailto:" + email
 
              // Extract location
-            let location = $('.info.voting_address:contains("Voting Address")').first().text().replace(/\n/g, '').trim()
-            location = location.replace('Voting Address:', '').trim()
-    
+            let location = $(this).parent().find('.info.voting_address').text().replace(/\n/g, '').trim();
+            location = location.replace('Voting Address:', '').trim();
+            location = location.replace(/^\d+\s*/, '');
+
+
             // Extract zip code from location
             const zipCodeMatch = location.match(/\b\d{5}(?:-\d{4})?\b/);
             const zipCode = zipCodeMatch ? zipCodeMatch[0] : null;
 
 
             // Extract district information
-            const district = $(this).parent().find('small').filter(function() {
+            let district = $(this).parent().find('small').filter(function() {
                 return $(this).text().includes("District");
             }).text().trim();
+            district = district.slice(9);
 
                         // Extract and trim name
             let name = $(this).parent().find('span.info span a').text();
-            name = name.split('Details')[0].trim();
+                name = name.split('Details')[0].trim();
+            const lastName = name.split(',')[0].trim();
+            const firstName = name.split(',')[1] ? name.split(',')[1].trim() : '';
+            const repName = firstName + ' ' + lastName;
            
 
             representive.push({
-                name,
+                repName,
+                firstName,
+                lastName,
                 email,
                 emailURL,
                 location,

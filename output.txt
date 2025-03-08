@@ -1,794 +1,992 @@
 [
   {
-    "name": "Allen, Scott",
+    "repName": "Scott Allen",
+    "firstName": "Scott",
+    "lastName": "Allen",
     "email": "Rep.Allen@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Allen@legis.wisconsin.gov",
     "location": "Waukesha, WI 53188",
     "zipCode": "53188",
-    "district": "District 82"
+    "district": "82"
   },
   {
-    "name": "Anderson, Clinton",
+    "repName": "Clinton Anderson",
+    "firstName": "Clinton",
+    "lastName": "Anderson",
     "email": "Rep.CAnderson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.CAnderson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 45"
+    "location": "Cleveland St.Beloit, WI 53511",
+    "zipCode": "53511",
+    "district": "45"
   },
   {
-    "name": "Andraca, Deb",
+    "repName": "Deb Andraca",
+    "firstName": "Deb",
+    "lastName": "Andraca",
     "email": "Rep.Andraca@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Andraca@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 23"
+    "location": "Whitefish Bay, WI 53211",
+    "zipCode": "53211",
+    "district": "23"
   },
   {
-    "name": "Armstrong, David",
+    "repName": "David Armstrong",
+    "firstName": "David",
+    "lastName": "Armstrong",
     "email": "Rep.Armstrong@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Armstrong@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 67"
+    "location": "Phipps Ave.Rice Lake, WI 54868",
+    "zipCode": "54868",
+    "district": "67"
   },
   {
-    "name": "Arney, Margaret",
+    "repName": "Margaret Arney",
+    "firstName": "Margaret",
+    "lastName": "Arney",
     "email": "Rep.Arney@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Arney@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 18"
+    "location": "Saint Charles St.Wauwatosa, WI 53213",
+    "zipCode": "53213",
+    "district": "18"
   },
   {
-    "name": "August, Tyler",
+    "repName": "Tyler August",
+    "firstName": "Tyler",
+    "lastName": "August",
     "email": "Rep.August@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.August@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 31"
+    "location": "Walworth, WI 53184-5535",
+    "zipCode": "53184-5535",
+    "district": "31"
   },
   {
-    "name": "Bare, Mike",
+    "repName": "Mike Bare",
+    "firstName": "Mike",
+    "lastName": "Bare",
     "email": "Rep.Bare@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Bare@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 80"
+    "location": "Verona, WI 53593",
+    "zipCode": "53593",
+    "district": "80"
   },
   {
-    "name": "Behnke, Elijah",
+    "repName": "Elijah Behnke",
+    "firstName": "Elijah",
+    "lastName": "Behnke",
     "email": "Rep.Behnke@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Behnke@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 6"
+    "location": "Sobieski, WI 54171",
+    "zipCode": "54171",
+    "district": "6"
   },
   {
-    "name": "Billings, Jill",
+    "repName": "Jill Billings",
+    "firstName": "Jill",
+    "lastName": "Billings",
     "email": "Rep.Billings@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Billings@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 95"
+    "location": "La Crosse, WI 54601",
+    "zipCode": "54601",
+    "district": "95"
   },
   {
-    "name": "Born, Mark",
+    "repName": "Mark Born",
+    "firstName": "Mark",
+    "lastName": "Born",
     "email": "Rep.Born@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Born@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 37"
+    "location": "Franklin St.Beaver Dam, WI 53916",
+    "zipCode": "53916",
+    "district": "37"
   },
   {
-    "name": "Brill, Lindee",
+    "repName": "Lindee Brill",
+    "firstName": "Lindee",
+    "lastName": "Brill",
     "email": "Rep.Brill@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Brill@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 27"
+    "location": "N5612 Meadowlark Rd.Sheboygan Falls, WI 53085",
+    "zipCode": "53085",
+    "district": "27"
   },
   {
-    "name": "Brooks, Robert",
+    "repName": "Robert Brooks",
+    "firstName": "Robert",
+    "lastName": "Brooks",
     "email": "Rep.Rob.Brooks@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Rob.Brooks@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 59"
+    "location": "E. Dekora St.Saukville, WI 53080",
+    "zipCode": "53080",
+    "district": "59"
   },
   {
-    "name": "Brown, Brienne",
+    "repName": "Brienne Brown",
+    "firstName": "Brienne",
+    "lastName": "Brown",
     "email": "Rep.Brown@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Brown@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 43"
+    "location": "Whitewater, WI 53190",
+    "zipCode": "53190",
+    "district": "43"
   },
   {
-    "name": "Callahan, Calvin",
+    "repName": "Calvin Callahan",
+    "firstName": "Calvin",
+    "lastName": "Callahan",
     "email": "Rep.Callahan@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Callahan@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 35"
+    "location": "N 9048 Fox Farm RoadTripoli, WI  54564",
+    "zipCode": "54564",
+    "district": "35"
   },
   {
-    "name": "Clancy, Ryan",
+    "repName": "Ryan Clancy",
+    "firstName": "Ryan",
+    "lastName": "Clancy",
     "email": "Rep.Clancy@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Clancy@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 19"
+    "location": "S. Howell Ave.Milwaukee, WI 53207",
+    "zipCode": "53207",
+    "district": "19"
   },
   {
-    "name": "Cruz, Angelina",
+    "repName": "Angelina Cruz",
+    "firstName": "Angelina",
+    "lastName": "Cruz",
     "email": "Rep.Cruz@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Cruz@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 62"
+    "location": "Racine, WI 53403",
+    "zipCode": "53403",
+    "district": "62"
   },
   {
-    "name": "Dallman, Alex",
+    "repName": "Alex Dallman",
+    "firstName": "Alex",
+    "lastName": "Dallman",
     "email": "Rep.Dallman@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Dallman@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 39"
+    "location": "Markesan, WI 53946-7139",
+    "zipCode": "53946-7139",
+    "district": "39"
   },
   {
-    "name": "DeSanto, Karen",
+    "repName": "Karen DeSanto",
+    "firstName": "Karen",
+    "lastName": "DeSanto",
     "email": "Rep.DeSanto@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.DeSanto@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 40"
+    "location": "Baraboo, WI 53913",
+    "zipCode": "53913",
+    "district": "40"
   },
   {
-    "name": "DeSmidt, Ben",
+    "repName": "Ben DeSmidt",
+    "firstName": "Ben",
+    "lastName": "DeSmidt",
     "email": "Rep.DeSmidt@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.DeSmidt@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 65"
+    "location": "Kenosha, WI 53143",
+    "zipCode": "53143",
+    "district": "65"
   },
   {
-    "name": "Dittrich, Barbara",
+    "repName": "Barbara Dittrich",
+    "firstName": "Barbara",
+    "lastName": "Dittrich",
     "email": "Rep.Dittrich@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Dittrich@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 99"
+    "location": "Oconomowoc, WI 53066",
+    "zipCode": "53066",
+    "district": "99"
   },
   {
-    "name": "Donovan, Bob",
+    "repName": "Bob Donovan",
+    "firstName": "Bob",
+    "lastName": "Donovan",
     "email": "Rep.Donovan@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Donovan@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 61"
+    "location": "Greenfield, WI 53228",
+    "zipCode": "53228",
+    "district": "61"
   },
   {
-    "name": "Doyle, Steve",
+    "repName": "Steve Doyle",
+    "firstName": "Steve",
+    "lastName": "Doyle",
     "email": "Rep.Doyle@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Doyle@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 94"
+    "location": "Onalaska, WI 54650",
+    "zipCode": "54650",
+    "district": "94"
   },
   {
-    "name": "Duchow, Cindi",
+    "repName": "Cindi Duchow",
+    "firstName": "Cindi",
+    "lastName": "Duchow",
     "email": "Rep.Duchow@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Duchow@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 97"
+    "location": "N22 W28692 Louis Ave.Pewaukee, WI 53072",
+    "zipCode": "53072",
+    "district": "97"
   },
   {
-    "name": "Emerson, Jodi",
+    "repName": "Jodi Emerson",
+    "firstName": "Jodi",
+    "lastName": "Emerson",
     "email": "Rep.Emerson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Emerson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 91"
+    "location": "Eau Claire, WI 54701",
+    "zipCode": "54701",
+    "district": "91"
   },
   {
-    "name": "Fitzgerald, Joan",
+    "repName": "Joan Fitzgerald",
+    "firstName": "Joan",
+    "lastName": "Fitzgerald",
     "email": "Rep.Fitzgerald@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Fitzgerald@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 46"
+    "location": "Fort Atkinson, WI 53538",
+    "zipCode": "53538",
+    "district": "46"
   },
   {
-    "name": "Franklin, Benjamin",
+    "repName": "Benjamin Franklin",
+    "firstName": "Benjamin",
+    "lastName": "Franklin",
     "email": "Rep.Franklin@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Franklin@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 88"
+    "location": "Nick LaneDe Pere, WI 54115",
+    "zipCode": "54115",
+    "district": "88"
   },
   {
-    "name": "Goeben, Joy",
+    "repName": "Joy Goeben",
+    "firstName": "Joy",
+    "lastName": "Goeben",
     "email": "Rep.Goeben@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Goeben@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 5"
+    "location": "Hobart, WI 54155",
+    "zipCode": "54155",
+    "district": "5"
   },
   {
-    "name": "Goodwin, Russell",
+    "repName": "Russell Goodwin",
+    "firstName": "Russell",
+    "lastName": "Goodwin",
     "email": "Rep.Goodwin@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Goodwin@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 12"
+    "location": "Milwaukee, WI 53224",
+    "zipCode": "53224",
+    "district": "12"
   },
   {
-    "name": "Green, Chanz",
+    "repName": "Chanz Green",
+    "firstName": "Chanz",
+    "lastName": "Green",
     "email": "Rep.Green@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Green@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 74"
+    "location": "PO Box 974Ashland, WI 54806",
+    "zipCode": "54806",
+    "district": "74"
   },
   {
-    "name": "Gundrum, Rick",
+    "repName": "Rick Gundrum",
+    "firstName": "Rick",
+    "lastName": "Gundrum",
     "email": "Rep.Gundrum@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Gundrum@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 58"
+    "location": "Slinger, WI 53086",
+    "zipCode": "53086",
+    "district": "58"
   },
   {
-    "name": "Gustafson, Nate",
+    "repName": "Nate Gustafson",
+    "firstName": "Nate",
+    "lastName": "Gustafson",
     "email": "Rep.Gustafson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Gustafson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 55"
+    "location": "Neenah, WI 54956",
+    "zipCode": "54956",
+    "district": "55"
   },
   {
-    "name": "Haywood, Kalan",
+    "repName": "Kalan Haywood",
+    "firstName": "Kalan",
+    "lastName": "Haywood",
     "email": "Rep.Haywood@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Haywood@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 16"
+    "location": "Milwaukee, WI 53212",
+    "zipCode": "53212",
+    "district": "16"
   },
   {
-    "name": "Hong, Francesca",
+    "repName": "Francesca Hong",
+    "firstName": "Francesca",
+    "lastName": "Hong",
     "email": "Rep.Hong@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Hong@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 76"
+    "location": "Madison, WI 53703",
+    "zipCode": "53703",
+    "district": "76"
   },
   {
-    "name": "Hurd, Karen",
+    "repName": "Karen Hurd",
+    "firstName": "Karen",
+    "lastName": "Hurd",
     "email": "Rep.Hurd@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Hurd@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 69"
+    "location": "Thorp, WI 54771",
+    "zipCode": "54771",
+    "district": "69"
   },
   {
-    "name": "Hysell, Andrew",
+    "repName": "Andrew Hysell",
+    "firstName": "Andrew",
+    "lastName": "Hysell",
     "email": "Rep.Hysell@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Hysell@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 48"
+    "location": "Sun Prairie, WI 53590",
+    "zipCode": "53590",
+    "district": "48"
   },
   {
-    "name": "Jacobson, Brent",
+    "repName": "Brent Jacobson",
+    "firstName": "Brent",
+    "lastName": "Jacobson",
     "email": "Rep.Brent.Jacobson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Brent.Jacobson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 87"
+    "location": "Fairway Dr.Mosinee, WI 54455",
+    "zipCode": "54455",
+    "district": "87"
   },
   {
-    "name": "Jacobson, Jenna",
+    "repName": "Jenna Jacobson",
+    "firstName": "Jenna",
+    "lastName": "Jacobson",
     "email": "Rep.Jacobson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Jacobson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 50"
+    "location": "Oregon, WI 53575",
+    "zipCode": "53575",
+    "district": "50"
   },
   {
-    "name": "Joers, Alex",
+    "repName": "Alex Joers",
+    "firstName": "Alex",
+    "lastName": "Joers",
     "email": "Rep.Joers@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Joers@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 81"
+    "location": "Waunakee, WI 53597",
+    "zipCode": "53597",
+    "district": "81"
   },
   {
-    "name": "Johnson, Tara",
+    "repName": "Tara Johnson",
+    "firstName": "Tara",
+    "lastName": "Johnson",
     "email": "Rep.Johnson@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Johnson@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 96"
+    "location": "N980 Bloomer Mill Rd.La Crosse, WI 54601",
+    "zipCode": "54601",
+    "district": "96"
   },
   {
-    "name": "Kaufert, Dean",
+    "repName": "Dean Kaufert",
+    "firstName": "Dean",
+    "lastName": "Kaufert",
     "email": "Rep.Kaufert@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Kaufert@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 53"
+    "location": "Alpine LaneNeenah, WI   54956",
+    "zipCode": "54956",
+    "district": "53"
   },
   {
-    "name": "Kirsch, Karen",
+    "repName": "Karen Kirsch",
+    "firstName": "Karen",
+    "lastName": "Kirsch",
     "email": "Rep.Kirsch@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Kirsch@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 7"
+    "location": "Greenfield, WI 53221",
+    "zipCode": "53221",
+    "district": "7"
   },
   {
-    "name": "Kitchens, Joel",
+    "repName": "Joel Kitchens",
+    "firstName": "Joel",
+    "lastName": "Kitchens",
     "email": "Rep.Kitchens@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Kitchens@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 1"
+    "location": "Sturgeon Bay, WI 54235",
+    "zipCode": "54235",
+    "district": "1"
   },
   {
-    "name": "Knodl, Daniel",
+    "repName": "Daniel Knodl",
+    "firstName": "Daniel",
+    "lastName": "Knodl",
     "email": "Rep.Knodl@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Knodl@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 24"
+    "location": "",
+    "zipCode": null,
+    "district": "24"
   },
   {
-    "name": "Kreibich, Rob",
+    "repName": "Rob Kreibich",
+    "firstName": "Rob",
+    "lastName": "Kreibich",
     "email": "Rep.Kreibich@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Kreibich@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 28"
+    "location": "S. 5th St., Unit 12New Richmond, WI 54017",
+    "zipCode": "54017",
+    "district": "28"
   },
   {
-    "name": "Krug, Scott",
+    "repName": "Scott Krug",
+    "firstName": "Scott",
+    "lastName": "Krug",
     "email": "Rep.Krug@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Krug@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 72"
+    "location": "Arkdale, WI 54613-9560",
+    "zipCode": "54613-9560",
+    "district": "72"
   },
   {
-    "name": "Kurtz, Tony",
+    "repName": "Tony Kurtz",
+    "firstName": "Tony",
+    "lastName": "Kurtz",
     "email": "Rep.Kurtz@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Kurtz@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 41"
+    "location": "Wonewoc, WI 53968",
+    "zipCode": "53968",
+    "district": "41"
   },
   {
-    "name": "Madison, Darrin",
+    "repName": "Darrin Madison",
+    "firstName": "Darrin",
+    "lastName": "Madison",
     "email": "Rep.Madison@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Madison@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 10"
+    "location": "N. 21st St. Apt. 4Milwaukee, WI 53209",
+    "zipCode": "53209",
+    "district": "10"
   },
   {
-    "name": "Maxey, Dave",
+    "repName": "Dave Maxey",
+    "firstName": "Dave",
+    "lastName": "Maxey",
     "email": "Rep.Maxey@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Maxey@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 83"
+    "location": "New Berlin, WI 53146",
+    "zipCode": "53146",
+    "district": "83"
   },
   {
-    "name": "Mayadev, Renuka",
+    "repName": "Renuka Mayadev",
+    "firstName": "Renuka",
+    "lastName": "Mayadev",
     "email": "Rep.Mayadev@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Mayadev@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 77"
+    "location": "Madison, WI 53711",
+    "zipCode": "53711",
+    "district": "77"
   },
   {
-    "name": "McCarville, Maureen",
+    "repName": "Maureen McCarville",
+    "firstName": "Maureen",
+    "lastName": "McCarville",
     "email": "Rep.McCarville@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.McCarville@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 42"
+    "location": "Flambeau ParkwayDeForest, WI 53532",
+    "zipCode": "53532",
+    "district": "42"
   },
   {
-    "name": "McGuire, Tip",
+    "repName": "Tip McGuire",
+    "firstName": "Tip",
+    "lastName": "McGuire",
     "email": "Rep.McGuire@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.McGuire@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 64"
+    "location": "Kenosha, WI 53140",
+    "zipCode": "53140",
+    "district": "64"
   },
   {
-    "name": "Melotik, Paul",
+    "repName": "Paul Melotik",
+    "firstName": "Paul",
+    "lastName": "Melotik",
     "email": "Rep.Melotik@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Melotik@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 22"
+    "location": "Pioneer RoadGrafton, WI 53024",
+    "zipCode": "53024",
+    "district": "22"
   },
   {
-    "name": "Miresse, Vincent",
+    "repName": "Vincent Miresse",
+    "firstName": "Vincent",
+    "lastName": "Miresse",
     "email": "Rep.Miresse@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Miresse@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 71"
+    "location": "Stevens Point, WI 54481",
+    "zipCode": "54481",
+    "district": "71"
   },
   {
-    "name": "Moore Omokunde, Supreme",
+    "repName": "Supreme Moore Omokunde",
+    "firstName": "Supreme",
+    "lastName": "Moore Omokunde",
     "email": "Rep.MooreOmokunde@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.MooreOmokunde@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 17"
+    "location": "N. 59th St.Milwaukee, WI 53210",
+    "zipCode": "53210",
+    "district": "17"
   },
   {
-    "name": "Moses, Clint",
+    "repName": "Clint Moses",
+    "firstName": "Clint",
+    "lastName": "Moses",
     "email": "Rep.Moses@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Moses@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 92"
+    "location": "N6602 470th St.Menomonie, WI 54751",
+    "zipCode": "54751",
+    "district": "92"
   },
   {
-    "name": "Murphy, David",
+    "repName": "David Murphy",
+    "firstName": "David",
+    "lastName": "Murphy",
     "email": "Rep.Murphy@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Murphy@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 56"
+    "location": "Ivy LaneGreenville, WI 54942",
+    "zipCode": "54942",
+    "district": "56"
   },
   {
-    "name": "Mursau, Jeffrey",
+    "repName": "Jeffrey Mursau",
+    "firstName": "Jeffrey",
+    "lastName": "Mursau",
     "email": "Rep.Mursau@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Mursau@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 36"
+    "location": "Oak St.Crivitz, WI   54114",
+    "zipCode": "54114",
+    "district": "36"
   },
   {
-    "name": "Nedweski, Amanda",
+    "repName": "Amanda Nedweski",
+    "firstName": "Amanda",
+    "lastName": "Nedweski",
     "email": "Rep.Nedweski@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Nedweski@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 32"
+    "location": "Pleasant Prairie, WI 53158",
+    "zipCode": "53158",
+    "district": "32"
   },
   {
-    "name": "Neubauer, Greta",
+    "repName": "Greta Neubauer",
+    "firstName": "Greta",
+    "lastName": "Neubauer",
     "email": "Rep.Neubauer@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Neubauer@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 66"
+    "location": "Racine, WI 53403",
+    "zipCode": "53403",
+    "district": "66"
   },
   {
-    "name": "Neylon, Adam",
+    "repName": "Adam Neylon",
+    "firstName": "Adam",
+    "lastName": "Neylon",
     "email": "Rep.Neylon@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Neylon@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 15"
+    "location": "Lake Park Ct.Pewaukee, WI  53072",
+    "zipCode": "53072",
+    "district": "15"
   },
   {
-    "name": "Novak, Todd",
+    "repName": "Todd Novak",
+    "firstName": "Todd",
+    "lastName": "Novak",
     "email": "Rep.Novak@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Novak@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 51"
+    "location": "W. Division St.Dodgeville, WI  53533",
+    "zipCode": "53533",
+    "district": "51"
   },
   {
-    "name": "O'Connor, Jerry",
+    "repName": "Jerry O'Connor",
+    "firstName": "Jerry",
+    "lastName": "O'Connor",
     "email": "Rep.O'Connor@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.O'Connor@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 60"
+    "location": "N5964 Joseph CourtFond du Lac, WI 54937",
+    "zipCode": "54937",
+    "district": "60"
   },
   {
-    "name": "Ortiz-Velez, Sylvia",
+    "repName": "Sylvia Ortiz-Velez",
+    "firstName": "Sylvia",
+    "lastName": "Ortiz-Velez",
     "email": "Rep.Ortiz-Velez@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Ortiz-Velez@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 8"
+    "location": "Milwaukee, WI  53204",
+    "zipCode": "53204",
+    "district": "8"
   },
   {
-    "name": "Palmeri, Lori",
+    "repName": "Lori Palmeri",
+    "firstName": "Lori",
+    "lastName": "Palmeri",
     "email": "Rep.Palmeri@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Palmeri@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 54"
+    "location": "Oshkosh, WI 54901",
+    "zipCode": "54901",
+    "district": "54"
   },
   {
-    "name": "Penterman, William",
+    "repName": "William Penterman",
+    "firstName": "William",
+    "lastName": "Penterman",
     "email": "Rep.Penterman@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Penterman@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 38"
+    "location": "Hustisford, WI 53034",
+    "zipCode": "53034",
+    "district": "38"
   },
   {
-    "name": "Petersen, Kevin",
+    "repName": "Kevin Petersen",
+    "firstName": "Kevin",
+    "lastName": "Petersen",
     "email": "Rep.Petersen@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Petersen@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 57"
+    "location": "N1433 Drivas Rd.Waupaca, WI 54981",
+    "zipCode": "54981",
+    "district": "57"
   },
   {
-    "name": "Phelps, Christian",
+    "repName": "Christian Phelps",
+    "firstName": "Christian",
+    "lastName": "Phelps",
     "email": "Rep.Phelps@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Phelps@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 93"
+    "location": "Eau Claire, WI 54701",
+    "zipCode": "54701",
+    "district": "93"
   },
   {
-    "name": "Piwowarczyk, Jim",
+    "repName": "Jim Piwowarczyk",
+    "firstName": "Jim",
+    "lastName": "Piwowarczyk",
     "email": "Rep.Piwowarczyk@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Piwowarczyk@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 98"
+    "location": "Hubertus, WI 53033",
+    "zipCode": "53033",
+    "district": "98"
   },
   {
-    "name": "Prado, Priscilla",
+    "repName": "Priscilla Prado",
+    "firstName": "Priscilla",
+    "lastName": "Prado",
     "email": "Rep.Prado@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Prado@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 9"
+    "location": "Milwaukee, WI 53221",
+    "zipCode": "53221",
+    "district": "9"
   },
   {
-    "name": "Pronschinske, Treig",
+    "repName": "Treig Pronschinske",
+    "firstName": "Treig",
+    "lastName": "Pronschinske",
     "email": "Rep.Pronschinske@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Pronschinske@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 29"
+    "location": "North Jackson St.Mondovi, WI 54755",
+    "zipCode": "54755",
+    "district": "29"
   },
   {
-    "name": "Rivera-Wagner, Amaad",
+    "repName": "Amaad Rivera-Wagner",
+    "firstName": "Amaad",
+    "lastName": "Rivera-Wagner",
     "email": "Rep.Rivera-Wagner@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Rivera-Wagner@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 90"
+    "location": "S. Quincy St.Green Bay, WI 54301",
+    "zipCode": "54301",
+    "district": "90"
   },
   {
-    "name": "Rodriguez, Jessie",
+    "repName": "Jessie Rodriguez",
+    "firstName": "Jessie",
+    "lastName": "Rodriguez",
     "email": "Rep.Rodriguez@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Rodriguez@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 21"
+    "location": "S. Crane Dr.Oak Creek, WI  53154",
+    "zipCode": "53154",
+    "district": "21"
   },
   {
-    "name": "Roe, Ann",
+    "repName": "Ann Roe",
+    "firstName": "Ann",
+    "lastName": "Roe",
     "email": "Rep.Roe@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Roe@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 44"
+    "location": "Janesville, WI 53545",
+    "zipCode": "53545",
+    "district": "44"
   },
   {
-    "name": "Sheehan, Joe",
+    "repName": "Joe Sheehan",
+    "firstName": "Joe",
+    "lastName": "Sheehan",
     "email": "Rep.Sheehan@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Sheehan@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 26"
+    "location": "Pinewood Dr.Sheboygan, WI 53083",
+    "zipCode": "53083",
+    "district": "26"
   },
   {
-    "name": "Sinicki, Christine",
+    "repName": "Christine Sinicki",
+    "firstName": "Christine",
+    "lastName": "Sinicki",
     "email": "Rep.Sinicki@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Sinicki@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 20"
+    "location": "Milwaukee, WI   53207",
+    "zipCode": "53207",
+    "district": "20"
   },
   {
-    "name": "Snodgrass, Lee",
+    "repName": "Lee Snodgrass",
+    "firstName": "Lee",
+    "lastName": "Snodgrass",
     "email": "Rep.Snodgrass@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Snodgrass@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 52"
+    "location": "Appleton, WI 54911",
+    "zipCode": "54911",
+    "district": "52"
   },
   {
-    "name": "Snyder, Patrick",
+    "repName": "Patrick Snyder",
+    "firstName": "Patrick",
+    "lastName": "Snyder",
     "email": "Rep.Snyder@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Snyder@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 85"
+    "location": "Alderson St Apt 18Weston, WI  54476",
+    "zipCode": "54476",
+    "district": "85"
   },
   {
-    "name": "Sortwell, Shae",
+    "repName": "Shae Sortwell",
+    "firstName": "Shae",
+    "lastName": "Sortwell",
     "email": "Rep.Sortwell@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Sortwell@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 2"
+    "location": "County Road QTwo Rivers, WI 54241",
+    "zipCode": "54241",
+    "district": "2"
   },
   {
-    "name": "Spaude, Ryan",
+    "repName": "Ryan Spaude",
+    "firstName": "Ryan",
+    "lastName": "Spaude",
     "email": "Rep.Spaude@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Spaude@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 89"
+    "location": "Willard DriveGreen Bay, WI 54304",
+    "zipCode": "54304",
+    "district": "89"
   },
   {
-    "name": "Spiros, John",
+    "repName": "John Spiros",
+    "firstName": "John",
+    "lastName": "Spiros",
     "email": "Rep.Spiros@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Spiros@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 86"
+    "location": "E. FillmoreMarshfield, WI  54449",
+    "zipCode": "54449",
+    "district": "86"
   },
   {
-    "name": "Steffen, David",
+    "repName": "David Steffen",
+    "firstName": "David",
+    "lastName": "Steffen",
     "email": "Rep.Steffen@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Steffen@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 4"
+    "location": "Howard, WI 54313",
+    "zipCode": "54313",
+    "district": "4"
   },
   {
-    "name": "Stroud, Angela",
+    "repName": "Angela Stroud",
+    "firstName": "Angela",
+    "lastName": "Stroud",
     "email": "Rep.Stroud@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Stroud@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 73"
+    "location": "Ashland, WI 54806",
+    "zipCode": "54806",
+    "district": "73"
   },
   {
-    "name": "Stubbs, Shelia",
+    "repName": "Shelia Stubbs",
+    "firstName": "Shelia",
+    "lastName": "Stubbs",
     "email": "Rep.Stubbs@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Stubbs@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 78"
+    "location": "Madison, WI 53713",
+    "zipCode": "53713",
+    "district": "78"
   },
   {
-    "name": "Subeck, Lisa",
+    "repName": "Lisa Subeck",
+    "firstName": "Lisa",
+    "lastName": "Subeck",
     "email": "Rep.Subeck@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Subeck@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 79"
+    "location": "Madison, WI 53719",
+    "zipCode": "53719",
+    "district": "79"
   },
   {
-    "name": "Summerfield, Rob",
+    "repName": "Rob Summerfield",
+    "firstName": "Rob",
+    "lastName": "Summerfield",
     "email": "Rep.Summerfield@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Summerfield@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 68"
+    "location": "Thompson St.Bloomer, WI 54724",
+    "zipCode": "54724",
+    "district": "68"
   },
   {
-    "name": "Swearingen, Rob",
+    "repName": "Rob Swearingen",
+    "firstName": "Rob",
+    "lastName": "Swearingen",
     "email": "Rep.Swearingen@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Swearingen@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 34"
+    "location": "Oakview Ln.Rhinelander, WI 54501",
+    "zipCode": "54501",
+    "district": "34"
   },
   {
-    "name": "Taylor, Sequanna",
+    "repName": "Sequanna Taylor",
+    "firstName": "Sequanna",
+    "lastName": "Taylor",
     "email": "Rep.Taylor@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Taylor@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 11"
+    "location": "Milwaukee, WI 53218",
+    "zipCode": "53218",
+    "district": "11"
   },
   {
-    "name": "Tenorio, Angelito",
+    "repName": "Angelito Tenorio",
+    "firstName": "Angelito",
+    "lastName": "Tenorio",
     "email": "Rep.Tenorio@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Tenorio@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 14"
+    "location": "West Allis, WI 53227",
+    "zipCode": "53227",
+    "district": "14"
   },
   {
-    "name": "Tittl, Paul",
+    "repName": "Paul Tittl",
+    "firstName": "Paul",
+    "lastName": "Tittl",
     "email": "Rep.Tittl@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Tittl@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 25"
+    "location": "Rheaume Rd.Manitowoc, WI 54220",
+    "zipCode": "54220",
+    "district": "25"
   },
   {
-    "name": "Tranel, Travis",
+    "repName": "Travis Tranel",
+    "firstName": "Travis",
+    "lastName": "Tranel",
     "email": "Rep.Tranel@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Tranel@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 49"
+    "location": "Louisburg Rd.Cuba City, WI 53807",
+    "zipCode": "53807",
+    "district": "49"
   },
   {
-    "name": "Tucker, Duke",
+    "repName": "Duke Tucker",
+    "firstName": "Duke",
+    "lastName": "Tucker",
     "email": "Rep.Tucker@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Tucker@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 75"
+    "location": "County Road FGrantsburg, WI 54840",
+    "zipCode": "54840",
+    "district": "75"
   },
   {
-    "name": "Tusler, Ron",
+    "repName": "Ron Tusler",
+    "firstName": "Ron",
+    "lastName": "Tusler",
     "email": "Rep.Tusler@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Tusler@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 3"
+    "location": "W5721 Firelane 12Harrison, WI  54952",
+    "zipCode": "54952",
+    "district": "3"
   },
   {
-    "name": "Udell, Randy",
+    "repName": "Randy Udell",
+    "firstName": "Randy",
+    "lastName": "Udell",
     "email": "Rep.Udell@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Udell@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 47"
+    "location": "Walnut Wood CtFitchburg, WI 53711",
+    "zipCode": "53711",
+    "district": "47"
   },
   {
-    "name": "VanderMeer, Nancy",
+    "repName": "Nancy VanderMeer",
+    "firstName": "Nancy",
+    "lastName": "VanderMeer",
     "email": "Rep.VanderMeer@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.VanderMeer@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 70"
+    "location": "Tomah, WI 54660",
+    "zipCode": "54660",
+    "district": "70"
   },
   {
-    "name": "Vining, Robyn",
+    "repName": "Robyn Vining",
+    "firstName": "Robyn",
+    "lastName": "Vining",
     "email": "Rep.Vining@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Vining@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 13"
+    "location": "Wauwatosa, WI 53212",
+    "zipCode": "53212",
+    "district": "13"
   },
   {
-    "name": "Vos, Robin",
+    "repName": "Robin Vos",
+    "firstName": "Robin",
+    "lastName": "Vos",
     "email": "Rep.Vos@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Vos@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 33"
+    "location": "Rock Ridge Rd.Burlington, WI   53105",
+    "zipCode": "53105",
+    "district": "33"
   },
   {
-    "name": "Wichgers, Chuck",
+    "repName": "Chuck Wichgers",
+    "firstName": "Chuck",
+    "lastName": "Wichgers",
     "email": "Rep.Wichgers@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Wichgers@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 84"
+    "location": "W156 S7388 Quietwood Dr.Muskego, WI 53150",
+    "zipCode": "53150",
+    "district": "84"
   },
   {
-    "name": "Wittke, Robert",
+    "repName": "Robert Wittke",
+    "firstName": "Robert",
+    "lastName": "Wittke",
     "email": "Rep.Wittke@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Wittke@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 63"
+    "location": "Caledonia, WI 53402",
+    "zipCode": "53402",
+    "district": "63"
   },
   {
-    "name": "Zimmerman, Shannon",
+    "repName": "Shannon Zimmerman",
+    "firstName": "Shannon",
+    "lastName": "Zimmerman",
     "email": "Rep.Zimmerman@legis.wisconsin.gov",
     "emailURL": "mailto:Rep.Zimmerman@legis.wisconsin.gov",
-    "location": "Waukesha, WI 53188",
-    "zipCode": "53188",
-    "district": "District 30"
+    "location": "W10887 875th Ave.River Falls, WI 54022",
+    "zipCode": "54022",
+    "district": "30"
   }
 ]

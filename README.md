@@ -6,11 +6,31 @@ Wisconsin-legislators-scraper is a Node.js web scraper using Axios, Cheerio, and
 <pre>
 Example of output:
 {
-    name: 'Zimmerman, Shannon',
-    email: 'Rep.Zimmerman@legis.wisconsin.gov',
-    emailURL: 'mailto:Rep.Zimmerman@legis.wisconsin.gov',
-    location: 'Waukesha, WI 53188',
-    zipCode: '53188',
-    district: 'District 30'
-  }
+    "repName": "Paul Tittl",
+    "firstName": "Paul",
+    "lastName": "Tittl",
+    "email": "Rep.Tittl@legis.wisconsin.gov",
+    "emailURL": "mailto:Rep.Tittl@legis.wisconsin.gov",
+    "location": "Rheaume Rd.Manitowoc, WI 54220",
+    "zipCode": "54220",
+    "district": "25"
+  },
+</pre>
+
+then use node transform.js to convert textfile to json using the zip as identifier
+
+Example output:
+<pre>
+  "53158": [
+    {
+      "repName": "Amanda Nedweski",
+      "firstName": "Amanda",
+      "lastName": "Nedweski",
+      "email": "Rep.Nedweski@legis.wisconsin.gov",
+      "emailURL": "mailto:Rep.Nedweski@legis.wisconsin.gov",
+      "location": "Pleasant Prairie, WI 53158",
+      "zipCode": "53158",
+      "district": "32"
+    }
+  ],
 </pre>
