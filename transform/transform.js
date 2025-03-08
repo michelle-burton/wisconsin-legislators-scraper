@@ -23,6 +23,6 @@ const transformedData = data.reduce((acc, item) => {
 }, {});
 
 // Write the transformed JSON data to a new file
-fs.writeFileSync(path.join(__dirname, 'transformedOutput.json'), JSON.stringify(transformedData, null, 2));
+fs.writeFileSync(path.join(__dirname, 'rep.json'), JSON.stringify(transformedData, null, 2));
 
 console.log('JSON data transformed successfully.');
