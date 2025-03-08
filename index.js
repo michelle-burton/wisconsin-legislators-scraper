@@ -2,6 +2,7 @@ const PORT = 8000;
 const axios = require('axios');
 const cheerio = require('cheerio');
 const express = require('express');
+const fs = require('fs');
 
 const app = express();
 
@@ -48,7 +49,16 @@ axios(url)
             })
         })
         console.log(representive)
-    }).catch(err => console.log(err))
 
+
+    // Write the scraped data to a file
+    fs.writeFile('output.txt',  JSON.stringify(representive, null, 2), (err) => {
+      if (err) throw err;
+      console.log('Data has been written to output.txt');
+    });
+  })
+  .catch(error => {
+    console.error('Error fetching the URL:', error);
+  });
 app.listen(PORT, () => console.log(`server running on PORT ${PORT}`))
 
